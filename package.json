@@ -43,6 +43,7 @@
                 ],
                 "extensions": [
                     ".po",
+                    ".po.txt",
                     ".pot",
                     ".potx"
                 ],
